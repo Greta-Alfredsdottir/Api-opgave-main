@@ -5,6 +5,11 @@
   background-color: antiquewhite;
 }
 
+article {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
+
 body {
   border-radius: 2rem;
 }
