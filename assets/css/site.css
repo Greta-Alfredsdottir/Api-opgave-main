@@ -22,10 +22,28 @@ body {
   background-color: aquamarine;
 }
 
-img {
+.img-container {
+  position: relative;
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+.img-container img {
   width: 200px;
   height: 200px;
-  padding-right: 1rem;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.img-text {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-size: 1rem;
+  padding: 0.2rem 0;
+  font-family: "Montserrat", sans-serif;
 }/*# sourceMappingURL=site.css.map */
