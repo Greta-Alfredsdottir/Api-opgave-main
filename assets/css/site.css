@@ -6,8 +6,7 @@
 }
 
 body {
-  -o-border-image: round;
-     border-image: round;
+  border-radius: 2rem;
 }
 
 #mainFooter {
@@ -17,6 +16,7 @@ body {
 img {
   width: 200px;
   height: 200px;
+  padding-right: 1rem;
   -o-object-fit: cover;
      object-fit: cover;
 }/*# sourceMappingURL=site.css.map */

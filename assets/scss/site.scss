@@ -8,7 +8,7 @@
 }
 
 body{
-    border-image: round;
+    border-radius: 2rem;
 }
 #mainFooter{
     background-color: aquamarine;
@@ -17,5 +17,6 @@ body{
 img {
   width: 200px;
   height: 200px;
+  padding-right: 1rem;
   object-fit: cover;
 }
