@@ -2,12 +2,16 @@
 #hunder {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
+  font-style: italic;
+  text-align: center;
   background-color: antiquewhite;
 }
 
 article {
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
+  font-style: italic;
+  text-align: center;
 }
 
 body {
