@@ -1,6 +1,6 @@
 // her er vores javascript
 
-fetch('https://dog.ceo/api/breeds/image/random/12')
+fetch('https://dog.ceo/api/breeds/image/random/50')
   .then(response => response.json())
   .then(data => {
     view(data);
