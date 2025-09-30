@@ -1,5 +1,21 @@
 // her laver vi vores scss
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+#hunder{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    background-color: antiquewhite;
+}
 
 body{
-    background-color: aqua;
+    border-image: round;
+}
+#mainFooter{
+    background-color: aquamarine;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
